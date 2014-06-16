@@ -15,4 +15,4 @@ this repo's [docs/errata.markdown][errata].)
 
 [kirshipa]: http://www.kirshenbaum.net/IPA/
 [KPDF]: http://www.kirshenbaum.net/IPA/ascii-ipa.pdf
-[errata]: https://github.com/coruus/ascii-ipa/docs/errata.markdown
+[errata]: https://github.com/coruus/ascii-ipa/blob/master/docs/errata.markdown
